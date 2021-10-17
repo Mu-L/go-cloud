@@ -40,7 +40,7 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/cli v0.4.3 // indirect
 	github.com/GoogleCloudPlatform/cloudsql-proxy v1.24.0
 	github.com/aws/aws-sdk-go v1.40.34
-	github.com/aws/aws-sdk-go-v2 v1.9.0
+	github.com/aws/aws-sdk-go-v2 v1.9.2
 	github.com/aws/aws-sdk-go-v2/config v1.7.0
 	github.com/aws/aws-sdk-go-v2/credentials v1.4.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.5.0
